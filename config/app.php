@@ -163,9 +163,9 @@ return [
         Illuminate\View\ViewServiceProvider::class,
 
         /*
-         * Package Service Providers...
+         * Package Added By Me ...
          */
-
+        Yoeunes\Notify\NotifyServiceProvider::class,
         /*
          * Application Service Providers...
          */
